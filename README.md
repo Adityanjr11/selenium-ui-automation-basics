@@ -1,3 +1,4 @@
+
 # Selenium UI Automation Basics
 
 This project demonstrates basic UI test automation using Selenium WebDriver with Python.
@@ -21,3 +22,12 @@ This project demonstrates basic UI test automation using Selenium WebDriver with
 
 2. Run the test:
    python test_login.py
+
+
+
+## Learning Outcomes
+
+- Understanding of UI automation flow
+- Handling synchronization using explicit waits
+- Writing reusable test functions
+- Validating expected outcomes using assertions
