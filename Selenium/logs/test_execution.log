@@ -1,0 +1,30 @@
+2026-02-08 14:02:52,240 - INFO - Browser launched successfully
+2026-02-08 14:02:52,339 - INFO - Navigating to login page
+2026-02-08 14:02:55,412 - INFO - Running positive login test
+2026-02-08 14:02:56,944 - INFO - Positive test passed
+2026-02-08 14:02:56,944 - INFO - Running negative login test
+2026-02-08 14:02:56,958 - ERROR - Test failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=144.0.7559.97); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6667ff3d5
+	0x7ff6667ff430
+	0x7ff6665a10bd
+	0x7ff6665fc2fe
+	0x7ff6665fc60c
+	0x7ff66664d187
+	0x7ff666649d08
+	0x7ff6665ecb0c
+	0x7ff6665eda53
+	0x7ff666adb470
+	0x7ff666ad586d
+	0x7ff666af621a
+	0x7ff66681b235
+	0x7ff666823a5c
+	0x7ff666808844
+	0x7ff6668089f6
+	0x7ff6667eeb87
+	0x7ffdffa3e8d7
+	0x7ffe0134c53c
+
+2026-02-08 14:02:56,958 - INFO - Closing browser
